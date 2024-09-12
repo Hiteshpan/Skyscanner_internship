@@ -5,11 +5,11 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_JP.Morgan Online Internship Project]
+# [JP.Morgan Online Internship Project]
 
 [_It is a Flight Schedule setting module code implementation , used to set our flight schedule easily by selecting dates on calender while bookiing your tickets after conferming dates click continue and a popup occurs and hit ok and all done. This is created using reactjs, javascript,backpack package for date selection module,etc here is some pictures of the project, Thanku..._]
 
-"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-09-13 000319.png"
+"Screenshot 2024-09-13 000319.png"
 
 ## npm script commands
 
