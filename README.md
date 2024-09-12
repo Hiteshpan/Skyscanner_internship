@@ -11,7 +11,7 @@
 
 ![Screenshot 2024-09-13 000319](https://github.com/user-attachments/assets/009699a2-4015-4231-8e45-ce9ffad71253)
 
-# [After Completion of this Project, I get this certificate as my Achievement]
+# [After Completion of this Project, I Earned this certificate as my Achievement]
 
 
 ![Screenshot 2024-07-30 174230](https://github.com/user-attachments/assets/ddca814a-f8c1-4403-8386-d513dec57407)
