@@ -7,7 +7,7 @@
 
 # [Skyscanner Online Internship Project]
 
-[_It is a Flight Schedule setting module code implementation , used to set our flight schedule easily by selecting dates on calender while bookiing your tickets after conferming dates click continue and a popup occurs and hit ok and all done. This is created using reactjs, javascript,backpack package for date selection module,etc here is some pictures of the project, Thanku..._]
+[_It is a Flight Schedule setting module code implementation , used to set our flight schedule easily by selecting dates on calender while booking your tickets after conferming dates click continue and a popup occurs and hit ok and all done. This is created using reactjs, javascript,backpack package for date selection module,etc here is some pictures of the project, Thanku..._]
 
 ![Screenshot 2024-09-13 000319](https://github.com/user-attachments/assets/009699a2-4015-4231-8e45-ce9ffad71253)
 
